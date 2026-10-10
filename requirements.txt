@@ -1,5 +1,6 @@
-gradio
-scikit-learn
-pandas
-matplotlib
-nltk
+
+gradio>=4.44.0
+scikit-learn>=1.4.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+nltk>=3.8.1
